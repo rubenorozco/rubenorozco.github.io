@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Anton|Bai+Jamjuree|Indie+Flower|Mali|Niramit|Open+Sans|Roboto|Shadows+Into+Light');
+
+@import url('https://use.fontawesome.com/releases/v5.3.1/css/all.css');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
